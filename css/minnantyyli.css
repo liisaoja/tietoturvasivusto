@@ -1,0 +1,39 @@
+
+
+#divvisa {
+    border: 4px solid;
+    width: 500px;
+    height: 400px;
+}
+
+.palkki {
+    margin-top: 10px;
+    margin-bottom: 10px;
+}
+
+.visadiv {
+    width: 500px; 
+    height: 400px;
+}
+
+.klikkaa {
+    cursor: pointer;
+}
+
+.painike {
+    font-family: 'Indie Flower', Tahoma;
+    font-size: 1.2em;
+}
+    
+
+.oikein {
+    background-color: green;
+    color: white;
+   
+}
+
+.vaarin {
+    background-color: #ff3333;
+    color: white;
+}
+
